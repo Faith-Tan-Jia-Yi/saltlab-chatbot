@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coachingbot-mvhd",
+  "private_key_id": "1ad435da548f7b979d0b950da2a8286a895f17ab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3VuYiebM3r8UH\nWLzkEIA9igc+5qqqjRYENeLZ9OQvbEDOTDzWQxvk68mcXugn0ZYsMK0HkylMZmBg\nIwTHEuTifvxrG1h4i+uNySfL8u33etUIydPyIvxFFA2E+bcCPT6JuJIKoTaJUNGx\neOVPvON/4ErOJTEF4PqZ9EIkELaRqANn226xGUx3CO7ipieGNwWWEg0Eb1gtpEwH\nK/2BYkC0VF08bEkQXsQD6BinITikkh0j/Blh+xyJtwHRyNrtwfd2TLnTnU76TKJz\n+M9oKMflHXlaM5dcJcEpekyUD86DtMjdZ2pxiXIjhA/p/GTpjBUBTw4j912Cy9Sw\ngBsK1fcjAgMBAAECggEACqyA/n3WXMYbcveMG70IMk0Aaf2U7xQCtaELgYP76vTi\n+v++RP0oORYvKS7vVi4iD5WP5VKAg4WsU7yGMS7c64DYIkY3yuDeiGUvL3UHvLJG\nh9n0QHMf+8eUl+rP6E33f54ixoKnQaxWYP44X4GQPygoQsMwjPaRsHfjh+T/NBCa\nAwdyQoQVzBiLBwOKBLJzTDS83B5Gn/EWMZ/3JFaKDNUXb5w46XxDkQpzcnSpKPP8\n7OfvVjlYmIOIj2yLIEfAFXcOJ0SxUMeZD71ajirgsBdWXxNqOD0wgThFABOrpDlv\niNgUFFhoYLcreP9kLHDZ1daKHP0MPQuWGWhP7cALdQKBgQD92JVrGAVW4kZRKaHP\nySxG14AHoLT+xuwVPaDbfb5zyqKcwHtvUwg1KMPbDr0NWT9AKd0cFcEHoJts/O51\nQoY4VeJg9x6AXL4C09YrddXDwk8JWHzIihBiWKOQnp/JK9xC1zYvYv/Ai2ciAwcx\nH6D2Dy2XuYKn7VlSb/gWd7AxRQKBgQC45ShWuxr7tUdBD6G+rfKf+JJI9rCaq3o+\nL+LGNU+0ZfpUlQ6jnR7u2SCm34m8AoysaFVjEeAv0zFQqoJmJn6mL7y7RIClhZOZ\nZYijX/YqrxmNd5SR2s/YB00kRJB65nNTyPX1JjCLG2oKxnWkyZ1oGZdAKvk0ygcd\nLJww2mdpRwKBgB0B3+kyAIIyLzjdGgmFgpLB03aLrcMjdhzjQvtx/g57TGO/Nxu8\nkEaK1v60S3Q4C5tIbWTlM36sorYsnQ83P+E2Jz1PX+PpNSlbjbC/sWLCVIfL3c6I\nwGCMonxHNBkn8u6Mazu1A2a8R1fCotLBO4KCr4IUB9MqszdRZjcjDDZFAoGBAJSv\n/DubJfzrcAy7JGhx/F53CDTS5XzMj3a5DZY1ww4gwCoK4IXk0b5kL+TieSIPrs7q\n7FfKRU5QeSUUqd658Dl2xECYuxfhDqxaQYKYph73RwZD9t9AZsqkPH4BAWtELdRg\nFKN7fagweJuHs428cPAJPF/m7xdrrELi4AxNZsH7AoGAfZ0SG1cuq2PcqWkxK9nB\nYEXJ1xK7ZfUAXDPynu+RGLQDz8jHGY2kUsFwQ2u0ohkHvu2RfC0kAJOhZQJ3h4Q0\nyagJfjFe665QIiVUNqmDWCaiAt3g2MZUyqbZaR5KVyaQtfX9bi71Bg6iy6Ht0ZEA\nVyyv5rhYohiysgB+LoU+jCw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-integration@coachingbot-mvhd.iam.gserviceaccount.com",
+  "client_id": "113135225204475617286",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-integration%40coachingbot-mvhd.iam.gserviceaccount.com"
+}
